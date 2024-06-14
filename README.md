@@ -1,3 +1,4 @@
+```yaml
 ---
 
 # SHOUKO COLLECTIVE | NON-INTELLIGENT UNITS | 2024
@@ -5,10 +6,11 @@
 ## Getting Started
 
 To install the required dependencies, run the following command:
-```yaml
-```bash
-npm install discord.js node-fetch
-```
+
+
+**npm install discord.js node-fetch**
+
+
 ## Troubleshooting
 
 If you experience issues with imports, replace `import` statements with `const` declarations.
