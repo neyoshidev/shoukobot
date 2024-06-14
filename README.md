@@ -1,3 +1,4 @@
+```yaml
 ---
 
 # SHOUKO COLLECTIVE | NON-INTELLIGENT UNITS | 2024
@@ -23,3 +24,4 @@ For additional assistance, please join our support community on Discord: [Shouko
 Thank you for choosing our source!
 
 ---
+```
