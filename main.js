@@ -136,7 +136,7 @@ client.on('interactionCreate', async interaction => {
         },
         thumbnail: { url: avatarURL },
         fields: [
-          { name: '🔑 Key:', value: `\`\`\`yaml\n${bypassResult}\n\`\`\`` },
+          { name: '🔑 Key:', value: `${box}${bypassResult}${box}` },
           { name: '🍌 Script:', value: `\`\`\`lua\nrepeat task.wait() until game:IsLoaded()\ngetgenv().Key = "${bypassResult}"\ngetgenv().NewBanana = true\nrepeat task.wait() until game:IsLoaded()\nloadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()\n\`\`\`` },
         ],
         footer: {
@@ -155,7 +155,7 @@ client.on('interactionCreate', async interaction => {
         },
         thumbnail: { url: avatarURL },
         fields: [
-          { name: '🔑 Result:', value: `\`\`\`yaml\n${bypassResult}\n\`\`\`` },
+          { name: '🔑 Result:', value: `${box}${bypassResult}${box}` },
         ],
         footer: {
           text: `${OwnerName} | Today at ${new Date().toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', hour12: true })}`,
