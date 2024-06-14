@@ -12,7 +12,7 @@ To install the required dependencies, run the following command:
 
 ## Troubleshooting
 
-If you experience issues with imports, replace `import` statements with `const` declarations.
+If you experience issues with imports, replace "import" statements with "const" declarations.
 
 ## Support
 
