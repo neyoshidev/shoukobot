@@ -1,5 +1,3 @@
----
-
 # SHOUKO COLLECTIVE | NON-INTELLIGENT UNITS | 2024
 
 ## Getting Started
@@ -19,5 +17,3 @@ For further assistance, join our support community on Discord: https://discord.g
 ---
 
 Thank you for choosing Shouko Collective!
-
----
