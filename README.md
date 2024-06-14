@@ -9,7 +9,6 @@ To install the required dependencies, run the following command:
 ```bash
 npm install discord.js node-fetch
 ```
-```
 ## Troubleshooting
 
 If you experience issues with imports, replace `import` statements with `const` declarations.
@@ -23,3 +22,4 @@ For further assistance, join our support community on Discord: [ShoukoHub](https
 Thank you for choosing Shouko Collective!
 
 ---
+```
