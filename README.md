@@ -1,4 +1,3 @@
-```yaml
 ---
 
 # SHOUKO COLLECTIVE | NON-INTELLIGENT UNITS | 2024
@@ -8,7 +7,7 @@
 To install the required dependencies, run the following command:
 
 
-**npm install discord.js node-fetch**
+--> npm install discord.js node-fetch
 
 
 ## Troubleshooting
@@ -24,4 +23,3 @@ For further assistance, join our support community on Discord: [ShoukoHub](https
 Thank you for choosing Shouko Collective!
 
 ---
-```
