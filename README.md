@@ -4,7 +4,7 @@
 
 To install the required dependencies, run the following command:
 
----> npm install discord.js node-fetch
+---> npm install discord.js
 
 ## Troubleshooting
 
